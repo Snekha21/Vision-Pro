@@ -1,0 +1,46 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id      Int      @id @default(autoincrement())
+  email   String   @unique
+  name    String
+  contact Int     @unique
+  cameras Camera[]
+}
+
+enum VisibilityRange {
+  R_100M
+  R_200M
+  R_300M
+}
+
+enum CameraResolution {
+  R_144P
+  R_240P
+  R_360P
+  R_480P
+  R_720P
+  R_1080P
+  R_2K
+  R_4K
+}
+
+model Camera {
+  id              Int              @id @default(autoincrement())
+  visibilityRange VisibilityRange  @default(R_100M)
+  resolution      CameraResolution @default(R_720P)
+  owner           User             @relation(fields: [ownerId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  ownerId         Int
+  latitude        Float
+  longitude       Float
+}

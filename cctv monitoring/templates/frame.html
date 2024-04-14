@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Object Detection</title>
+</head>
+<body>
+    <h1>Object Detection</h1>
+    <form action="/frames" method="post" enctype="multipart/form-data">
+        <input type="file" name="video" accept="video/*">
+        <input type="text" name="prompt" placeholder="Enter prompt">
+        <input type="submit" value="Submit">
+    </form>
+
+    {% if detections %}
+    <h2>Detected Images</h2>
+    {% for detection in detections %}
+        <div>
+            <img src="{{ detection.image_path }}" alt="Detected Image">
+            <p>{{ detection.info }}</p>
+        </div>
+    {% endfor %}
+    {% endif %}
+</body>
+
+</html>
