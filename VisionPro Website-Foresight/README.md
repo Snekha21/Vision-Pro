@@ -4,11 +4,6 @@
 
 _A modern CCTV management system with hazard detection for efficient incident response 🛡️._
 
-![GitHub last commit](https://img.shields.io/github/last-commit/oceands/Project_Foresight)
-![GitHub Downloads](https://img.shields.io/github/downloads/oceands/Project_Foresight/total.svg)
-![Collaborators](https://img.shields.io/badge/collaborators-5-blue)
-![Node Version](https://img.shields.io/badge/node_version-v18.16.1-red)
-![Python Version](https://img.shields.io/badge/python_version-v3.11.4-purple)
 
 _Foresight: Real-time CCTV 📹 Fire and Weapon detection and incident prediction. YOLOV8-powered 🧠 security for proactive threat prevention._
 
