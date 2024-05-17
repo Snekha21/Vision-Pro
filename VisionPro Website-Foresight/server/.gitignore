@@ -1,0 +1,9 @@
+# Ignore Visual Studio Code directory
+.venv/
+# Ignore Python bytecode files and caches
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+
