@@ -455,9 +455,9 @@ class UsersResource(Resource):
 # Twillio functions #
 
 def send_sms(to_numbers, body):
-    account_sid = 'AC019dcd518115af52aba58ddc27f9f644'  # Replace with your Twilio account SID
-    auth_token = 'cb7795fa17ecc131747603c10b61083e'    # Replace with your Twilio auth token
-    from_number = '+16464034549' # Replace with your Twilio phone number
+    account_sid = ''  # Replace with your Twilio account SID
+    auth_token = ''    # Replace with your Twilio auth token
+    from_number = '' # Replace with your Twilio phone number
 
     client = Client(account_sid, auth_token)
 
@@ -471,9 +471,9 @@ def send_sms(to_numbers, body):
 
 # Function to send whatsapp message on dispatch #
 def send_whatsapp_message(to_numbers, body):
-    account_sid = 'AC019dcd518115af52aba58ddc27f9f644'  # Replace with your Twilio account SID
-    auth_token = 'cb7795fa17ecc131747603c10b61083e'    # Replace with your Twilio auth token
-    from_whatsapp_number = 'whatsapp:+14155238886'      # Replace with your Twilio WhatsApp number
+    account_sid = ''  # Replace with your Twilio account SID
+    auth_token = ''    # Replace with your Twilio auth token
+    from_whatsapp_number = ''      # Replace with your Twilio WhatsApp number
 
     client = Client(account_sid, auth_token)
 
@@ -489,9 +489,9 @@ def send_whatsapp_message(to_numbers, body):
     
 # Function to send call on dispatch #
 def make_phone_call(to_numbers, message):
-    account_sid = 'AC019dcd518115af52aba58ddc27f9f644'  # Replace with your Twilio account SID
-    auth_token = 'cb7795fa17ecc131747603c10b61083e'    # Replace with your Twilio auth token
-    twilio_number = '+16464034549'                      # Replace with your Twilio phone number
+    account_sid = ''  # Replace with your Twilio account SID
+    auth_token = ''    # Replace with your Twilio auth token
+    twilio_number = ''                      # Replace with your Twilio phone number
 
     client = Client(account_sid, auth_token)
 
