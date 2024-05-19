@@ -5,7 +5,7 @@ Vision Pro is an advanced police assistance platform designed to empower law enf
 The project is divided into four phases
 
 
-1)Foresight - An all in one Dashboard for Police Department
+## 1)Foresight - An all in one Dashboard for Police Department
 Features 
 Real-time Anomaly Detection
 Incident Prediction
@@ -13,7 +13,7 @@ Automated Alerts
 Easy Integration
 User-Friendly Interface
 
-2)Streamlit-Prophet : All in one Live Data training and analytics tool for resource allocations
+## 2)Streamlit-Prophet : All in one Live Data training and analytics tool for resource allocations
 Now you can train, evaluate and optimize forecasting models in a few clicks. All you have to do is to upload a time series dataset.
 -Prepare data: Filter, aggregate, resample and/or clean your dataset.
 -Choose model parameters: Default parameters are available but you can tune them. Look at the tooltips to understand how each parameter is impacting forecasts.
@@ -24,7 +24,7 @@ Now you can train, evaluate and optimize forecasting models in a few clicks. All
 ![Github Link to StreamlitProphet](https://github.com/Snekha21/Prophet_Ksp)
 ![Link to StreamlitProphet app](https://prophetksp.streamlit.app/)
 
-3)VisionBot - A trained ChatBot for Police emergency services
+## 3)VisionBot - A trained ChatBot for Police emergency services
 ![Link to Chatbot](https://chatbotksp.streamlit.app/)
 
 Features of this chatbot
@@ -35,7 +35,7 @@ Features of this chatbot
 -Status Updates
 -Mental Health and Counseling Support
 
-4) A cyber security based dashboard
+## 4) A cyber security based dashboard
 ![Link to Dashboard](https://public.datapine.com/?_ga=2.237124416.1337044665.1716047872-1012320311.1716047872#board/DhRDmjO5zXeJni2rP7iBIT)
 # Foresight - Dashboard 🚀
 
