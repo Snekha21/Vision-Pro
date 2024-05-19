@@ -102,40 +102,7 @@ Configure and Use Postman for API Testing
 - Send the request in Postman.
 - Log in on the frontend using the provided email and password
 
-## Usage 📚
 
-### View Dashboard stats 
-https://github.com/oceands/Project_Foresight/assets/94485584/59df3f36-7023-4249-8a9d-9f8b19bab62b
-
-### View Live Feed 
-https://github.com/oceands/Project_Foresight/assets/94485584/e47f28f1-dd89-405f-be04-73b3e6532cd2
-
-### Notifications
-https://github.com/oceands/Project_Foresight/assets/94485584/e5a6fd60-3bf5-402e-bf9f-3201f9f7c5af
-
-### View Incidents
-https://github.com/oceands/Project_Foresight/assets/94485584/5d9e589e-62bb-4b94-833a-783365b2811e
-
-### User Managment
-https://github.com/oceands/Project_Foresight/assets/94485584/86061439-2942-48a4-acb4-547ae95b725e
-
-### Create / View Reports
-https://github.com/oceands/Project_Foresight/assets/94485584/75a6164e-0d61-426f-b54d-a9c793a98f38
-
-### Camera Settings 
-https://github.com/oceands/Project_Foresight/assets/94485584/3dae4a42-8b39-488a-8f7d-c686339b00fe
-
-### Dispatch Settings 
-https://github.com/oceands/Project_Foresight/assets/94485584/5fd7449e-0b2c-4e53-bcb5-77d3c897f498
-
-### Security Settings
-https://github.com/oceands/Project_Foresight/assets/94485584/724aee1f-83a3-41e9-8624-f9d01cd03e82
-
-### FAQ
-https://github.com/oceands/Project_Foresight/assets/94485584/9cccc15e-8e81-4600-a594-25dd8eadc7ce
-
-### Contact Us
-https://github.com/oceands/Project_Foresight/assets/94485584/bdb43fce-07e6-4500-92fe-4d6cb99a0a1c
 
 
 
