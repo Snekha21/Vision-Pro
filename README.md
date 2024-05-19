@@ -3,6 +3,8 @@ Prototype Overview: Vision Pro
 Vision Pro is an advanced police assistance platform designed to empower law enforcement agencies with cutting-edge technology for crime detection, traffic management, and community safety. This prototype integrates AI, IoT hardware, and innovative analytics to enhance operational efficiency and proactive crime prevention.
 
 The project is divided into four phases
+
+
 1)Foresight - An all in one Dashboard for Police Department
 Features 
 Real-time Anomaly Detection
