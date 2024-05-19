@@ -31,9 +31,7 @@ Our system is built using the latest technologies for optimal performance and sc
 
 ### Frontend Setup
 Clone the Repository
-```sh
-git clone https://github.com/oceands/Project_Foresight.git
-```
+
 Enter Client Dir
 ```sh
 cd client
