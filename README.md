@@ -2,7 +2,39 @@ Prototype Overview: Vision Pro
 
 Vision Pro is an advanced police assistance platform designed to empower law enforcement agencies with cutting-edge technology for crime detection, traffic management, and community safety. This prototype integrates AI, IoT hardware, and innovative analytics to enhance operational efficiency and proactive crime prevention.
 
+The project is divided into four phases
+1)Foresight - An all in one Dashboard for Police Department
+Features 
+Real-time Anomaly Detection
+Incident Prediction
+Automated Alerts
+Easy Integration
+User-Friendly Interface
 
+2)Streamlit-Prophet : All in one Live Data training and analytics tool for resource allocations
+Now you can train, evaluate and optimize forecasting models in a few clicks. All you have to do is to upload a time series dataset.
+Prepare data: Filter, aggregate, resample and/or clean your dataset.
+Choose model parameters: Default parameters are available but you can tune them. Look at the tooltips to understand how each parameter is impacting forecasts.
+Select evaluation method: Define the evaluation process, the metrics and the granularity to assess your model performance.
+Make a forecast: Make a forecast on future dates that are not included in your dataset, with the model previously trained.
+Once you are satisfied, click on "save experiment" to download all plots and data locally.
+
+![Github Link to StreamlitProphet](https://github.com/Snekha21/Prophet_Ksp)
+![Link to StreamlitProphet app](https://prophetksp.streamlit.app/)
+
+3)VisionBot - A trained ChatBot for Police emergency services
+![Link to Chatbot](https://chatbotksp.streamlit.app/)
+
+Features of this chatbot
+
+Emergency Reporting
+Information Retrieval
+Integration with Emergency Services
+Status Updates
+Mental Health and Counseling Support
+
+4) A cyber security based dashboard
+![Link to Dashboard](https://public.datapine.com/?_ga=2.237124416.1337044665.1716047872-1012320311.1716047872#board/DhRDmjO5zXeJni2rP7iBIT)
 # Foresight - Dashboard 🚀
 
 <div align="center">
@@ -11,10 +43,9 @@ _A modern CCTV management system with hazard detection for efficient incident re
 
 
 _Foresight: Real-time CCTV 📹 Fire and Weapon detection and incident prediction. YOLOV8-powered 🧠 security for proactive threat prevention._
-Link to Prophet Website GITHUB CODE
 </div>
 
-![a link](https://github.com/Snekha21/Prophet_Ksp)
+
 
 
 ## Introduction 🌟
