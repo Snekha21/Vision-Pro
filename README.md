@@ -11,10 +11,10 @@ _A modern CCTV management system with hazard detection for efficient incident re
 
 
 _Foresight: Real-time CCTV 📹 Fire and Weapon detection and incident prediction. YOLOV8-powered 🧠 security for proactive threat prevention._
-
+Link to Prophet Website GITHUB CODE
 </div>
 
-![page github](https://github.com/oceands/Project_Foresight/assets/94485584/f047fe12-1401-496e-81a9-6f0ba44e4e5f)
+![page github](https://github.com/Snekha21/Prophet_Ksp)
 
 
 ## Introduction 🌟
