@@ -14,7 +14,7 @@ _Foresight: Real-time CCTV 📹 Fire and Weapon detection and incident predictio
 Link to Prophet Website GITHUB CODE
 </div>
 
-![page github](https://github.com/Snekha21/Prophet_Ksp)
+![a link](https://github.com/Snekha21/Prophet_Ksp)
 
 
 ## Introduction 🌟
