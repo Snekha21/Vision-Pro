@@ -1,6 +1,5 @@
 ## Prototype Overview: Vision Pro
 
-![Link to the whole project](https://linktr.ee/Snekha21)
 
 
 Vision Pro is an advanced police assistance platform designed to empower law enforcement agencies with cutting-edge technology for crime detection, traffic management, and community safety. This prototype integrates AI, IoT hardware, and innovative analytics to enhance operational efficiency and proactive crime prevention.
@@ -38,8 +37,6 @@ Features of this chatbot
 -Status Updates
 -Mental Health and Counseling Support
 
-## 4) A cyber security based dashboard
-![Link to Dashboard](https://public.datapine.com/?_ga=2.237124416.1337044665.1716047872-1012320311.1716047872#board/DhRDmjO5zXeJni2rP7iBIT)
 # Foresight - Dashboard 🚀
 
 <div align="center">
